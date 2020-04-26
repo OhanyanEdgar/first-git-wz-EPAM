@@ -9,3 +9,7 @@ This file is going to be added to my repo.
 3. Than I need to place this file to "staging area", to be able then to commit file to
    my local repo.
    - To add file to "staging area": git add <filename>.
+
+4. To tell git that we want to add the staged changes to the local repository we need
+   to commit the changes.
+   - git commit -m “<commit message”.
