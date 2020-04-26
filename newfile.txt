@@ -1,0 +1,11 @@
+
+This file is going to be added to my repo.
+
+1. Create file within git dir.
+
+2. Git will detect this file in his workin dir, but it won't be added to my local repo.
+   It will be listed in "Untarcked files" section as yet.
+
+3. Than I need to place this file to "staging area", to be able then to commit file to
+   my local repo.
+   - To add file to "staging area": git add <filename>.
