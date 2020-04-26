@@ -12,7 +12,9 @@ This file is going to be added to my repo.
 
 4. To tell git that we want to add the staged changes to the local repository we need
    to commit the changes.
-   - git commit -m “<commit message”.
+   - git commit -m “commit message”.
 
 5. To share my local repo to remote I have to push it.
    - git push origin master.
+
+6. I've created new branch named "new-branch". This line was added whithin new-branch.
