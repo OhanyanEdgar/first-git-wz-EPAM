@@ -1,2 +1,4 @@
 
 1. New file 1st line.
+
+2. Making changes to new.txt
