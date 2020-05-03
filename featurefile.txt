@@ -1,3 +1,6 @@
 1. Some code to make our feature become true.
 
 2. Out feature is ready.
+
+4. This change was made whithin new-feature branch for creating merge conf.
+
