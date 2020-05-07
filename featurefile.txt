@@ -1,0 +1,6 @@
+1. Some code to make our feature become true.
+
+2. Out feature is ready.
+
+3. This change was made whithin master branch for creating merge conf.
+
